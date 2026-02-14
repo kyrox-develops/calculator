@@ -1,4 +1,5 @@
-from _tkinter import *
+from tkinter import *
+from tkinter import Tk
 expr=""
 def press(key):
     global expr
@@ -24,4 +25,4 @@ def clr():
 
 if __name__=="__main__":
     tk=Tk()
-    
+    tk.configure(bg="red")
