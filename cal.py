@@ -26,3 +26,8 @@ def clr():
 if __name__=="__main__":
     tk=Tk()
     tk.configure(bg="red")
+    tk.title("io calc")
+    tk.geometry("270x150")
+
+    display=StringVar()
+    Entry
