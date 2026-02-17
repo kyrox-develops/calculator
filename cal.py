@@ -80,3 +80,6 @@ if __name__=="__main__":
     clr=Button(tk,text='clr',fg='blue',bg='black',COMMAND=clr,height=1,width=7)
     clr.grid(row=5,column=1)
     tk.mainloop()
+
+
+    #this code gonna destroy and commpletly rewritten again without any shitty ai or freakin website copiesS
